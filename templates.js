@@ -1461,5 +1461,21 @@ module.exports =
         avatar:"http://www.designbootstrap.com/wp-content/uploads/2014/12/logo.png",
         license:"MIT",
         licenseUrl:"http://www.designbootstrap.com/licenses/"
+    },
+    {
+        name:"AngryBull",
+        title:"AngryBull ComingSoon Single Page",
+        short:"Coming soon theme with working PHP forms. ",
+        full:"AngryBull ComingSoon is free Bootstrap coming soon template for personal and commercial use.",
+        tags:["theme","comingsoon","singlepage","under construction","animation"],
+        imgUrl:"http://lakaruna.org/chamath_works/angry_bull/img/site-logo.png",
+        downloadUrl:"https://github.com/freestrap/Angry-Bull-Theme/archive/master.zip",
+        sourceUrl:"https://github.com/freestrap/Angry-Bull-Theme",
+        previewUrl:"http://lakaruna.org/chamath_works/angry_bull/",
+        authorUrl:"http://www.chamath.me/",
+        bootstrapVersion:"3.1",
+        avatar:"http://lakaruna.org/chamath_works/angry_bull/img/site-logo.png",
+        license:"MIT",
+        licenseUrl:""
     }
 ]
