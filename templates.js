@@ -1468,7 +1468,7 @@ module.exports =
         short:"Coming soon theme with working PHP forms. ",
         full:"AngryBull ComingSoon is free Bootstrap coming soon template for personal and commercial use.",
         tags:["theme","comingsoon","singlepage","under construction","animation"],
-        imgUrl:"http://lakaruna.org/chamath_works/angry_bull/img/site-logo.png",
+        imgUrl:"http://oi60.tinypic.com/2wlyo3s.jpg",
         downloadUrl:"https://github.com/freestrap/Angry-Bull-Theme/archive/master.zip",
         sourceUrl:"https://github.com/freestrap/Angry-Bull-Theme",
         previewUrl:"http://lakaruna.org/chamath_works/angry_bull/",
